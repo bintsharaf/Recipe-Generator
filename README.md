@@ -28,5 +28,5 @@ This project demonstrates **DOM manipulation, responsive UI design, and interact
 2.  Open index.html in your web browser.
 3.	Enter a recipe name and see instructions generated dynamically.
 
-Author
+## Author
 Fatimah Sharafudeen – Frontend Developer
